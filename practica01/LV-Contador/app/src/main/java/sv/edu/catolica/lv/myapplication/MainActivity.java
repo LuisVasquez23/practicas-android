@@ -29,7 +29,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 contador++;
-                mensaje.setText("Click numero" + contador);
+                String resultado = getString(R.string.click_mensaje) +" "+Integer.toString(contador);
+                mensaje.setText(resultado);
             }
         });
     }

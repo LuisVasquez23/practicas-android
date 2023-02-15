@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LV-Contador</string>
+    <string name="logo_unicaes">logotipo da universidade</string>
+    <string name="click_aqui">Clique aqui</string>
+    <string name="click_mensaje">clique no número</string>
+    <string name="hello_world">Olá Mundo</string>
+</resources>

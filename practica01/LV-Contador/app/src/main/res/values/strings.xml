@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">LV-Contador</string>
-    <string name="logo_unicaes">Logo UNICAES</string>
-    <string name="click_aqui">Click aqui</string>
+    <string name="logo_unicaes">University logo</string>
+    <string name="click_aqui">Click here</string>
+    <string name="click_mensaje">Click number</string>
+    <string name="hello_world">Hello World</string>
 </resources>
