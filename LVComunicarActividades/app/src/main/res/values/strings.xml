@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LV-ComunicarActividades</string>
+    <string name="hint_input_nombre">Escriba su nombre</string>
+    <string name="btn_enviar_txt">Enviar</string>
+    <string name="salir">salir</string>
+    <string name="acerca_de">acerca de</string>
+</resources>
